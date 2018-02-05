@@ -6,6 +6,10 @@
 
 ## 1주차(2018-02-05) :  gitHub설치
 
+https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
+
+
+
 ## 2주차(2018-02-12) :  01장(Lesson 04) 
 
 ### 01장: 자바스크립트클래스 기초 
@@ -17,5 +21,3 @@ Lesson 02. 클래스 관련 기본 개념과 용어정리
 Lesson 03. 오브젝트 리터럴 방식으로 클래스 만들기
  
 Lesson 04. 함수 방식으로 클래스 만들기 
-
-https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
