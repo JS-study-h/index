@@ -9,7 +9,8 @@
 https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/
 
 
-## 2주차 (2018-02-12) :  01장 (~ Lesson 04) [김지혜]
+## 2주차 (2018-02-12) :  01장 (~ Lesson 04) 
+''[김지혜]
 
 ### 01장: 자바스크립트클래스 기초 
 
